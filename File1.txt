@@ -7,3 +7,5 @@ Welcome to IBM as Associate System Engineer
 
 Induction
 Domain Training
+Project allocation
+onboarding
